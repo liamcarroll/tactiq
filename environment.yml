@@ -1,0 +1,16 @@
+name: tactiq
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - opencv
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - seaborn
+  - tqdm
